@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IMap</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoicXUzNXQ2NCIsImEiOiJja3RsZ3BncGkwMWltMnNyMDNxOXE3eGpxIn0.kBLOiMrye30l_QXMPRUlWg</string>
 </resources>
